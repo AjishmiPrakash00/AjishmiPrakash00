@@ -2,8 +2,12 @@
 
 
 - 🔭 a passionate CSE undergrad who loves building cool things with code!
-- 📫 Connect with me:
-      - LinkedIn: [Your LinkedIn]<http://www.linkedin.com/in/ajishmi-prakash/>
-      - Instagram: [instagram]<https://www.instagram.com/aji_sh_mi?igsh=cnh4YTdjMDJqYjV0/>
 - 😄 Pronouns:she/her
+- 📫 Let's Connect:
+- LinkedIn:<http://www.linkedin.com/in/ajishmi-prakash/>
+- Instagram:<https://www.instagram.com/aji_sh_mi?igsh=cnh4YTdjMDJqYjV0/>
+- 🎓 Education & Certifications:
+Python Bootcamp – Completed hands-on projects and mastered core and advanced Python concepts ✅
+Web Development Internship – Gained practical experience in frontend technologies ✅
+Data Structures Training – Strengthened DSA knowledge through real-world challenges ✅
 -->
